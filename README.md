@@ -1,0 +1,2 @@
+### Restaurant Menu Finder
+A web app that leverages the full mean stack in order to get menus from real restaurants. To do this, users are maintained in the mongodb database, and the delivery.com API is used to get restaurant information. Users can login, search for restaurants based on location, and then open a restaurant in order to view their menu.
